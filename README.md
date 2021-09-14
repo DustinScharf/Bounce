@@ -1,2 +1,2 @@
 # Bounce
-Bounce Mini Game (Java)
+Bounce Mini Game (like Super Smash Bros) (Java)
