@@ -1,2 +1,2 @@
 # Bounce
-Bounce Mini Game
+Bounce Mini Game (Java)
