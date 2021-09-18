@@ -44,7 +44,7 @@
                     <launcher>Start-game</launcher>
                     <jlinkImageName>test-game</jlinkImageName>
                     <jlinkZipName>test-game</jlinkZipName>
-                    <mainClass>com.dustinscharf.fxglplayaround.GameApp</mainClass>
+                    <mainClass>com.dustinscharf.bounce.GameApp</mainClass>
                 </configuration>
             </plugin>
 
