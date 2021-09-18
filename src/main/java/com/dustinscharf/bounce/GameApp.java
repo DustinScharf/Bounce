@@ -12,6 +12,6 @@ public class GameApp extends GameApplication {
     // TODO implemented basic window
     @Override
     protected void initGame() {
-
+        // empty
     }
 }
