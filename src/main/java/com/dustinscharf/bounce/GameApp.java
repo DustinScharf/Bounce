@@ -9,7 +9,6 @@ public class GameApp extends GameApplication {
         // empty
     }
 
-    // TODO implemented basic window
     @Override
     protected void initGame() {
         // empty
