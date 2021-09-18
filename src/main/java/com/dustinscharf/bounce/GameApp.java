@@ -14,4 +14,8 @@ public class GameApp extends GameApplication {
     protected void initGame() {
         // empty
     }
+
+    public static void main(String[] args) {
+
+    }
 }
