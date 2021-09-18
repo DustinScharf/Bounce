@@ -1,4 +1,6 @@
 package com.dustinscharf.bounce;
 
-public class GameFactory {
+import com.almasb.fxgl.entity.EntityFactory;
+
+public class GameFactory implements EntityFactory {
 }
