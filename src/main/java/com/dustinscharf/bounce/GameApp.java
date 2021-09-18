@@ -20,7 +20,7 @@ public class GameApp extends GameApplication {
 
     @Override
     protected void initInput() {
-
+        // empty
     }
 
     public static void main(String[] args) {
