@@ -18,6 +18,7 @@ public class GameApp extends GameApplication {
         // empty
     }
 
+    @Override
     protected void initInput() {
 
     }
